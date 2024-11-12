@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AC3 ELECTRO1 Font Preview</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">ELECRO1</div>
+            <div class="system-info">
+                RESTARTING  data swallow
+
+            </div>
+        </div>
+        
+        <div class="preview-panel">
+            <div class="controls">
+                <div class="control-group">
+                    <label for="fontSize">FONT SIZE:</label>
+                    <input type="range" id="fontSize" min="12" max="72" value="24">
+                    <span id="fontSizeValue">24px</span>
+                </div>
+                
+                <div class="control-group">
+                    <label for="fontColor">FONT COLOR:</label>
+                    <input type="color" id="fontColor" value="#222222">
+                </div>
+            </div>
+
+            <div class="preview-area">
+                <div id="preview" contenteditable="true">
+                    TYPE HERE TO TEST THE FONT
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
