@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.html linguist-documentation
-*.css linguist-documentation
-*.js linguist-documentation
+*.html export-ignore
+*.css export-ignore
+*.js export-ignore
+docs/* export-ignore  
