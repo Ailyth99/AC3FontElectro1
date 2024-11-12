@@ -11,16 +11,14 @@ This font is commonly used in AC3, appearing as  text in missions and for displa
 [TEST FONT](https://ailyth99.github.io/AC3FontElectro1)
 
 
-## ⚠️ Important Notice
-
-This font is **NOT** for commercial use. This is a digitization/preservation project of a historical typeface, and all original rights belong to Namco.
-
 ## License
 
 This font is licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
 See the [LICENSE](SIL_OPL) file for details.
 
-## Usage Restrictions
+## ⚠️ Important Notice
+
+This font is **NOT** for commercial use. This is a digitization/preservation project of a historical typeface, and all original rights belong to Namco.
 
 - ✅ Personal use
 - ✅ Educational purposes
