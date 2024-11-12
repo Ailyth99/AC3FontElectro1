@@ -1,12 +1,14 @@
 # Electro1
 This is a digitization project of Electro1 - font from Ace Combat 3 (1999) . <br>
 The original font was designed by  Sashida Minoru (Namco) and this digitized version is created for preservation and educational purposes only.<br>
+<br>
 This font is commonly used in AC3, appearing as  text in missions and for displaying mission titles.
+<br>
 ![P1](https://ailyth99.github.io/pic/electro1original.png)
 ![P2](![PV](https://ailyth99.github.io/pic/electro1original.png))
 
 <br>
- [TEST FONT](https://ailyth99.github.io/AC3FontElectro1)
+[TEST FONT](https://ailyth99.github.io/AC3FontElectro1)
 
 
 ## ⚠️ Important Notice
