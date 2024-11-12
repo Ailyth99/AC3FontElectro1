@@ -7,7 +7,6 @@ This font is commonly used in AC3, appearing as  text in missions and for displa
 ![P1](https://ailyth99.github.io/pic/electro1original.png)
 ![P2](https://ailyth99.github.io/AC3FontElectro1/electro1menu.png)
 
-<br>
 [TEST FONT](https://ailyth99.github.io/AC3FontElectro1)
 
 
