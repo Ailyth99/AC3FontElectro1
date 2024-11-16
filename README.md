@@ -13,7 +13,7 @@ This font is commonly used in AC3, appearing as  text in missions and for displa
 ## License
 
 This font is licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
-See the [LICENSE](SIL_OPL) file for details.
+See the [LICENSE](https://github.com/Ailyth99/AC3FontElectro1?tab=OFL-1.1-1-ov-file) file for details.
 
 ## ⚠️ Important Notice
 
