@@ -27,7 +27,8 @@ This font is **NOT** for commercial use. This is a digitization/preservation pro
 - ❌ Selling the font
 
 ## Preview
-![PV](https://ailyth99.github.io/pic/electro1.png)
+![](https://pic.imgdb.cn/item/673c30b9d29ded1a8c8735b3.png)
+
 
 ## Modifying the Font
 The FontCreator project file (`.fcp` format) is provided, allowing you to make further modifications and improvements to the font.
