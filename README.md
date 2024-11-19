@@ -27,7 +27,7 @@ This font is **NOT** for commercial use. This is a digitization/preservation pro
 - ❌ Selling the font
 
 ## Preview
-![](https://pic.imgdb.cn/item/673c30b9d29ded1a8c8735b3.png)
+![](https://ailyth99.github.io/AC3FontElectro1/prev.png)
 
 
 ## Modifying the Font
